@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on web dev projects
-- 📫 How to reach me ...
+- 📫 How to reach me ~NOT YET~
 
 <!---
 onlymedavid/onlymedavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
